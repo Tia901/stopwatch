@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(246, 232, 214);
+}
+div{
+    text-align: center;
+    font-size: 100px;
+    color:black
+}
+h1{
+    color:pink;
+    text-shadow:2pxblack;
+    font-size:100px;
+}
+#seconds{
+    color:rgb(230, 153, 230);
+    
+    font-size:100px;
+
+}
+#min{
+    color:rgb(230, 153, 230);
+    
+    font-size:100px;
+
+}
+
+#tens{
+    color:rgb(230, 153, 230);
+
+    font-size:100px;
+}
+#start{
+    font-size:50px;
+    background-color:pink;
+    border:3px solid black;
+}
+#stop{
+    font-size:50px;
+    background-color:pink;
+    border:3px solid black;
+}
+#reset{
+    font-size:50px;
+    background-color:pink;
+    border:3px solid black;
+    
+}
